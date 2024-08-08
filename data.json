@@ -1,0 +1,14 @@
+{
+    "name": "Amisha Gupta",
+    "role": "FRONTEND DEVELOPER",
+    "socials": {
+        "linkedin": "https://www.linkedin.com/in/amisha-gupta-284aa6228",
+        "instagram": "https://www.instagram.com/amisha_gupta_67?igsh=bnltdTJrZ2FkZ29u",
+        "gmail": "#",
+        "websiteURL": "https://example.com"
+    },
+    "buttonText": "HIRE ME",
+    "image": "photo.png",
+    "backgroundImage": "r.jpg",
+    "about": "I am a passionate frontend developer with experience in creating responsive and user-friendly websites. My skills include HTML, CSS, JavaScript, and frameworks like React. "
+}
